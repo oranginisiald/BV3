@@ -1,1 +1,1 @@
-pip install inquirer requests bs4 colorama GitPython
+pip install inquirer requests bs4 colorama GitPython fake-useragent
